@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-29T17:54:57Z" name="PortfolioSuite" finished-at="2022-03-29T17:54:57Z" duration-ms="16">
+    <groups>
+    </groups>
+    <test started-at="2022-03-29T17:54:57Z" name="Create Portfolio Test" finished-at="2022-03-29T17:54:57Z" duration-ms="16">
+      <class name="suites.Sessions">
+        <test-method signature="login()[pri:0, instance:suites.Sessions@36d585c]" started-at="2022-03-29T17:54:57Z" name="login" finished-at="2022-03-29T17:54:57Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- suites.Sessions -->
+    </test> <!-- Create Portfolio Test -->
+  </suite> <!-- PortfolioSuite -->
+</testng-results>
