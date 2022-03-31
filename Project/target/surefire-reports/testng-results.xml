@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-31T20:27:58Z" name="suites.BaseTest" finished-at="2022-03-31T20:27:58Z" duration-ms="10">
+    <groups>
+    </groups>
+    <test started-at="2022-03-31T20:27:58Z" name="Command line test" finished-at="2022-03-31T20:27:58Z" duration-ms="10">
+      <class name="suites.BaseTest">
+        <test-method is-config="true" signature="startTest(org.testng.ITestContext)[pri:0, instance:suites.BaseTest@6ca8564a]" started-at="2022-03-31T20:27:58Z" name="startTest" finished-at="2022-03-31T20:27:58Z" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2d2ffcb7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+      </class> <!-- suites.BaseTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- suites.BaseTest -->
+</testng-results>

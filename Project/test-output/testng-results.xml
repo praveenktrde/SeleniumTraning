@@ -2,15 +2,37 @@
 <testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-29T17:54:57Z" name="PortfolioSuite" finished-at="2022-03-29T17:54:57Z" duration-ms="16">
+  <suite started-at="2022-03-31T20:28:12Z" name="PortfolioSuite" finished-at="2022-03-31T20:28:12Z" duration-ms="19">
     <groups>
     </groups>
-    <test started-at="2022-03-29T17:54:57Z" name="Create Portfolio Test" finished-at="2022-03-29T17:54:57Z" duration-ms="16">
+    <test started-at="2022-03-31T20:28:12Z" name="Create Portfolio Test" finished-at="2022-03-31T20:28:12Z" duration-ms="19">
       <class name="suites.Sessions">
-        <test-method signature="login()[pri:0, instance:suites.Sessions@36d585c]" started-at="2022-03-29T17:54:57Z" name="login" finished-at="2022-03-29T17:54:57Z" duration-ms="5" status="PASS">
+        <test-method is-config="true" signature="startTest(org.testng.ITestContext)[pri:0, instance:suites.Sessions@2cdd0d4b]" started-at="2022-03-31T20:28:12Z" name="startTest" finished-at="2022-03-31T20:28:12Z" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c37508a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="login()[pri:0, instance:suites.Sessions@2cdd0d4b]" started-at="2022-03-31T20:28:12Z" name="login" finished-at="2022-03-31T20:28:12Z" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
+        <test-method is-config="true" signature="startMethod(org.testng.ITestContext)[pri:0, instance:suites.Sessions@2cdd0d4b]" started-at="2022-03-31T20:28:12Z" name="startMethod" finished-at="2022-03-31T20:28:12Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c37508a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startMethod -->
       </class> <!-- suites.Sessions -->
     </test> <!-- Create Portfolio Test -->
   </suite> <!-- PortfolioSuite -->
